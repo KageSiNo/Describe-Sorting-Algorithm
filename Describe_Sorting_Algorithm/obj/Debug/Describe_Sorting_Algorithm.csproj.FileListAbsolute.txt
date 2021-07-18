@@ -1,0 +1,13 @@
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Describe_Sorting_Algorithm\Describe_Sorting_Algorithm\obj\Debug\Describe_Sorting_Algorithm.csprojAssemblyReference.cache
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Describe_Sorting_Algorithm\Describe_Sorting_Algorithm\obj\Debug\Describe_Sorting_Algorithm.Properties.Resources.resources
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Describe_Sorting_Algorithm\Describe_Sorting_Algorithm\obj\Debug\Describe_Sorting_Algorithm.csproj.GenerateResource.cache
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Describe_Sorting_Algorithm\Describe_Sorting_Algorithm\obj\Debug\Describe_Sorting_Algorithm.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Describe_Sorting_Algorithm\Describe_Sorting_Algorithm\bin\Debug\Describe_Sorting_Algorithm.exe.config
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Describe_Sorting_Algorithm\Describe_Sorting_Algorithm\bin\Debug\Describe_Sorting_Algorithm.exe
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Describe_Sorting_Algorithm\Describe_Sorting_Algorithm\bin\Debug\Describe_Sorting_Algorithm.pdb
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Describe_Sorting_Algorithm\Describe_Sorting_Algorithm\obj\Debug\Describe_Sorting_Algorithm.exe
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Describe_Sorting_Algorithm\Describe_Sorting_Algorithm\obj\Debug\Describe_Sorting_Algorithm.pdb
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Describe_Sorting_Algorithm\Describe_Sorting_Algorithm\obj\Debug\Describe_Sorting_Algorithm.FormMain.resources
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Describe_Sorting_Algorithm\Describe_Sorting_Algorithm\bin\Debug\dje\Describe_Sorting_Algorithm.resources.dll
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Describe_Sorting_Algorithm\Describe_Sorting_Algorithm\obj\Debug\Describe_Sorting_Algorithm.FormMain.dje.resources
+D:\OneDrive\OneDrive - Ho Chi Minh city University of Food Industry\Desktop\Describe_Sorting_Algorithm\Describe_Sorting_Algorithm\obj\Debug\dje\Describe_Sorting_Algorithm.resources.dll
